@@ -1,12 +1,20 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="assets/Banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://your-framer-link.com">Framer</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-1f2a44?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-1f2a44?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://yourframerlink.com">
+    <img src="https://img.shields.io/badge/Framer-1f2a44?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1f2a44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ## Hey there! 👋
