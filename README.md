@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Portfolio-1f2a44?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 <a href="https://www.linkedin.com/in/YOUR-LINK/">
-  <img src="https://img.shields.io/badge/-LinkedIn-1f2740?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2740" alt="LinkedIn" />
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-202944?logo=linkedin-white" alt="LinkedIn" />
 </a>
     <img src="https://img.shields.io/badge/Framer-1f2a44?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
   </a>
