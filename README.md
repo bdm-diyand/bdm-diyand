@@ -3,17 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1f2a44?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-<a href="https://www.linkedin.com/in/YOUR-LINK/">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-202944?logo=linkedin-white" alt="LinkedIn" />
-</a>
-    <img src="https://img.shields.io/badge/Framer-1f2a44?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1f2a44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://yourportfolio.com"><img src="assets/portfolio.png" alt="Portfolio" height="50" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK/"><img src="assets/linkedin.png" alt="LinkedIn" height="50" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="assets/email.png" alt="Email" height="50" /></a>
 </p>
 
 ## Hey there! 👋
