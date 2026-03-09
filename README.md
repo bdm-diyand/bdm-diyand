@@ -2,7 +2,9 @@
   <img src="assets/Banner.png" alt="Banner" width="100%" />
 </p>
 
-## Hi there 👋
+## Hey there! 👋
+I’m a fresh Computer Science graduate with a long-standing passion for design, now pursuing the creative side of tech through UI/UX design and front-end development.
+
 
 <!--
 **bdm-diyand/bdm-diyand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
