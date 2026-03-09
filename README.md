@@ -2,7 +2,7 @@
   <img src="assets/Banner.png" alt="Banner" width="100%" />
 </p>
 
-## Hey there! 👋
+Hey there! 👋
 I’m a fresh Computer Science graduate with a long-standing passion for design, now pursuing the creative side of tech through UI/UX design and front-end development.
 
 
