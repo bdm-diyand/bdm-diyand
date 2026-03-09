@@ -3,11 +3,16 @@
 </p>
 
 <p align="center">
-<a href="https://yourportfolio.com">
-  <img src="assets/portfolio.png" alt="Portfolio" height="20" style="vertical-align: middle;" />
-  <span style="vertical-align: middle;">Portfolio</span>
-</a>  <a href="https://www.linkedin.com/in/YOUR-LINK/"><img src="assets/linkedin.png" alt="LinkedIn" height="50" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="assets/email.png" alt="Email" height="50" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="https://yourportfolio.com">
+        <img src="assets/globe.png" alt="Portfolio" height="22" />
+        Portfolio
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
 
 ## Hey there! 👋
