@@ -3,18 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-1E2A47?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E2A47?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-resume-link.com">
-    <img src="https://img.shields.io/badge/Resume-1E2A47?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-1E2A47?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="assets/portfolio.png" alt="Portfolio" height="40" /></a>&nbsp;
+  <a href="YOUR_RESUME_LINK"><img src="assets/resume.png" alt="Resume" height="40" /></a>&nbsp;
+  <a href="YOUR_BEHANCE_LINK"><img src="assets/behance.png" alt="Behance" height="40" /></a>&nbsp;
+  <a href="YOUR_LINKEDIN_LINK"><img src="assets/linkedin.png" alt="LinkedIn" height="40" /></a>&nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="assets/email.png" alt="Email" height="40" /></a>
 </p>
 
 ## Hey there! 👋
@@ -26,11 +19,37 @@ Here, you’ll find a collection of refactored college projects, projects I’ve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
 </p>
 
-### Tools I Use
+<table align="center">
+  <tr>
+    <td valign="top" width="50%" align="center">
+
+### Programming Languages I've Worked With
 <p>
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" />
-  <img src="https://cdn.simpleicons.org/canva" alt="Canva" width="40" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="40" />
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" />
-  <img src="https://cdn.simpleicons.org/framer" alt="Framer" width="40" />
+  <img src="assets/icons/java.png" alt="Java Logo" height="70" />
+  <img src="assets/icons/javascript.png" alt="Javascript Logo" height="70" />
+  <img src="assets/icons/typescript.png" alt="Typescript Logo" height="70" />
+    <img src="assets/icons/dart.png" alt="Dart Logo" height="70" />
+
 </p>
+
+  </td>
+    <td valign="top" width="50%" align="center">
+
+### Tools I've Used in the Past/Currently Using
+<p>
+  <img src="assets/icons/figma.png" alt="Figma Logo" height="70" />
+  <img src="assets/icons/canva.png" alt="Canva Logo" height="70" />
+  <img src="assets/icons/visualstudiocode.png" alt="Visual Studio Code Logo" height="70" />
+  <img src="assets/icons/androidstudio.png" alt="Android Studio Logo" height="70" />
+  <img src="assets/icons/firebase.png" alt="Firebase Logo" height="70" />
+  <img src="assets/icons/elementor.png" alt="Elementor Logo" height="70" />
+  <img src="assets/icons/vite.png" alt="Vite Logo" height="70" />
+  <img src="assets/icons/netlify.png" alt="Netlify Logo" height="70" />
+  <img src="assets/icons/github.png" alt="Github Logo" height="70" />
+
+
+</p>
+
+  </td>
+  </tr>
+</table>
